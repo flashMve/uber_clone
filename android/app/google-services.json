@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "743991759074",
+    "firebase_url": "https://ferrous-arena-356017-default-rtdb.firebaseio.com",
+    "project_id": "ferrous-arena-356017",
+    "storage_bucket": "ferrous-arena-356017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743991759074:android:39f0fff8bcb6ec67764ebb",
+        "android_client_info": {
+          "package_name": "com.faxwoid.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743991759074-chgkdlskhudv99d3l28df6nu3ufkk2bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSo7B3XVqnJqjd_kuzdwa0Z-yrn-AYDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743991759074-chgkdlskhudv99d3l28df6nu3ufkk2bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743991759074:android:971ec7f715757a85764ebb",
+        "android_client_info": {
+          "package_name": "com.faxwoid.uber_rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743991759074-2vrl00qqsmu67qiko03vognpmc2acb13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faxwoid.uber_rider_app",
+            "certificate_hash": "d2c90ae1dac1c031e701865b149973145cc6c576"
+          }
+        },
+        {
+          "client_id": "743991759074-chgkdlskhudv99d3l28df6nu3ufkk2bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSo7B3XVqnJqjd_kuzdwa0Z-yrn-AYDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743991759074-chgkdlskhudv99d3l28df6nu3ufkk2bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
